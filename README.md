@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working as ... Software Developer
-- 🌱 I’m currently learning ... Data Science
-- 👯 I’m looking to collaborate on ... Data Science
+- 🔭 I’m currently working as ... Data Engineer
+- 🌱 I’m currently learning ... Data Science, Software Development
+- 👯 I’m looking to collaborate on ... ETL Storage and Datawarehouse
 - 🤔 I’m looking for help with ... My career
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Find my contact details on Portfolio
