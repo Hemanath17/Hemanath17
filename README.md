@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working as ... Graduate Researcher
+- 🔭 I’m currently working as ... Graduate Researcher @Eller College of Management
 - 🌱 I’m currently learning ... Data Science, Neural Networks, NLP, Reinforcement Learning
 - 👯 I’m looking to collaborate on ... Applied NLP on Health care field, ETL development and Enterprise Datawarehouse
 - 🤔 I’m looking for help with ... My career
